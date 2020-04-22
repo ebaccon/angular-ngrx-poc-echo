@@ -1,0 +1,4 @@
+.app-user:hover {
+  background-color: grey;
+  cursor: pointer;
+}
